@@ -1,0 +1,22 @@
+{
+    "name": "andrearufo/gsx2json4php",
+    "description": "A PHP class to parse a Google Spreadsheet to JSON",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "AndreaRufo\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0",
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrea Rufo",
+            "email": "info@andrearufo.it"
+        }
+    ]
+}
