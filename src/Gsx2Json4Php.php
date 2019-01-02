@@ -71,6 +71,7 @@ class Gsx2Json4Php{
         }
 
         return json_encode($return);
+
     }
 
 }
